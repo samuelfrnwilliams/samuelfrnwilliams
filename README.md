@@ -8,4 +8,4 @@
 
  ~      <i> ♡. she/he, __minor__ .• </i> ~ ,, <i> w2i in ponytown as im usually offtab. </i>
 
-  [ata](https://samuelfrnwilliams.atabook.org/) ┊ [straw](https://samuelfrnnwilliams.straw.page/) ┊ [rentry](https://rentry.co/nilsam) ┊ [gunlolz](https://guns.lol/nilsam) 
+  [ata](https://samuelfrnwilliams.atabook.org/) ┊ [straw](https://samuelfrnnwilliams.straw.page/) ┊ [rentry](https://rentry.co/nilsam)
