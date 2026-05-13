@@ -29,7 +29,7 @@
 <br>
 <br>
 
-<a href="https://samuelfrnwilliams.straw.page/"><img width="290" height="235" alt="meow" src="https://i.postimg.cc/63XgvvdB/jake.png"/></a> ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎‎ ‎  ‎  <img width="394" height="263" alt="meow" src="https://i.postimg.cc/cLgK8yJn/notepad2.png"/><
+<a href="https://samuelfrnwilliams.straw.page/"><img width="290" height="235" alt="meow" src="https://i.postimg.cc/63XgvvdB/jake.png"/></a> ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎‎ ‎  ‎  <img width="394" height="263" alt="meow" src="https://i.postimg.cc/cLgK8yJn/notepad2.png"/>
 
 <br>
 <br>
@@ -42,5 +42,5 @@
 <br>
 <br>
 <br>
-  <h6> art by tamagor on tumblr. </h6>
+  <h6> art by tamagor on tumblr - looks good on pc only </h6>
   <img width="800" height="160" alt="meow" src="https://i.postimg.cc/LXhX3903/border2.png" />
