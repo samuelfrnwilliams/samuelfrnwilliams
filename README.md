@@ -29,7 +29,7 @@
 <br>
 <br>
 
-<a href="https://samuelfrnwilliams.straw.page/"><img width="290" height="235" alt="meow" src="https://i.postimg.cc/63XgvvdB/jake.png"/></a> ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎‎ ‎  ‎  <img width="394" height="263" alt="meow" src="https://i.postimg.cc/cLgK8yJn/notepad2.png"/>
+<a href="https://samuelfrnnwilliams.straw.page/"><img width="290" height="235" alt="meow" src="https://i.postimg.cc/63XgvvdB/jake.png"/></a> ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎‎ ‎  ‎  <img width="394" height="263" alt="meow" src="https://i.postimg.cc/cLgK8yJn/notepad2.png"/>
 
 <br>
 <br>
