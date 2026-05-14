@@ -17,7 +17,7 @@
 <br>
 <br>
 
-<img width="394" height="263" alt="meow" src="https://i.postimg.cc/MTbc967Y/notepad.png"/>‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎‎ ‎  ‎  <a href="https://https://samuelfrnwilliams.atabook.org"><img width="263" height="251" alt="meow" src="https://i.postimg.cc/zDw29vTg/sam.png"/></a>
+<img width="394" height="263" alt="meow" src="https://i.postimg.cc/MTbc967Y/notepad.png"/>‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎‎ ‎  ‎  <a href="https://samuelfrnwilliams.atabook.org"><img width="263" height="251" alt="meow" src="https://i.postimg.cc/zDw29vTg/sam.png"/></a>
 </a>
 
 <br>
