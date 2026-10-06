@@ -22,3 +22,5 @@
 <br>
 
 <p align="center"> ${\text{\color{#FFBA68}Art by [underscore]bananasher on X.}}$ </p>
+<p align="center"> ${\text{\color{#FFBA68}Don't affiliate me with Seildirectory. Much love!}}$ </p>
+
