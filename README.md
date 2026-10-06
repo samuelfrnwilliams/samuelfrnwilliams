@@ -1,6 +1,7 @@
 <div align=center>
 
  <img src="https://readme-typing-svg.herokuapp.com?font=Love+Ya+Like+A+Sister&size=40&pause=10000000&color=FF9256&center=true&vCenter=true&width=600&lines=Here+we+go+again." />
+ <p align="center"> ${\text{\color{#FFBA68}Don't affiliate me with Seildirectory. Much love!}}$ </p>
  
 <br>
 <br>
@@ -22,5 +23,3 @@
 <br>
 
 <p align="center"> ${\text{\color{#FFBA68}Art by [underscore]bananasher on X.}}$ </p>
-<p align="center"> ${\text{\color{#FFBA68}Don't affiliate me with Seildirectory. Much love!}}$ </p>
-
